@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(82, 82, 82);
+}
+    
+h1{ 
+   color: white;
+   font-family: 'Poppins', sans-serif;
+   font-family: 'Roboto', sans-serif;
+   justify-content: center;
+   display: flex;
+}
+
+.cima{
+
+    justify-content: center  ;
+    display: flex;
+}
+
+.baixo{
+    justify-content: center  ;
+    display: flex;
+}

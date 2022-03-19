@@ -1,0 +1,23 @@
+h1{
+    background-color: aqua;
+    height: 300px;
+    width: 300px;
+
+
+    border: 10px, solid, blueviolet;
+ 
+
+    padding: 10px;
+    
+    margin: 20px auto 40px auto;
+
+    outline: 5px dashed darkcyan;
+    
+}
+
+a{
+  
+    border: 10px solid darkgoldenrod;
+    padding: 10px;
+  
+}
