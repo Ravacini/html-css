@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    background-color: black;
+    color: white;
+    height: 250px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:visited{
+    color: white;
+}
+
+section{
+    min-height: 300px;
+    box-shadow: 1px 1px 1px black;
+}
+
+#fundoFlor{
+    background: white url(imagens/background001.jpg) center no-repeat fixed;
+    background-size: cover;
+}
+
+.textofundo{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.247);
+}
+
+#fundoLetras{
+    background: white url(imagens/background002.jpg) center no-repeat fixed;
+    background-size: auto;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
